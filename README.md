@@ -8,7 +8,7 @@ Sugestões de alteração da norma são muito bem vindas, este é um repositóri
 Conhecimentos matemáticos que são a fundação pra construir o resto.
 
 ## [Álgebra Linear](https://github.com/vinicius111andrade/42math/blob/main/algebra_linear.md)  
-Algelin para os íntimos.
+Algelin para os íntimos. É um ramo da matemática que surgiu do estudo detalhado de sistemas de equações lineares, sejam elas algébricas ou diferenciais. A álgebra linear utiliza alguns conceitos e estruturas fundamentais da matemática como vetores, espaços vetoriais, transformações lineares, sistemas de equações lineares e matrizes.
 
 ## [Cálculo Diferencial](https://github.com/vinicius111andrade/42math/edit/main/calculus.md)  
-O choro é livre.
+Ramo importante da matemática que se dedica ao estudo de taxas de variação de grandezas (como a inclinação de uma reta) e a acumulação de quantidades (como a área debaixo de uma curva ou o volume de um sólido).
