@@ -7,7 +7,7 @@ Choro é livre
     * Descrição: Introduz integrais antes de derivadas, uma abordagem aprofundada e um pouco diferente da convencional. 
   * Calculus, Volume II: Multi-Variable Calculus and Linear Algebra, with Applications to Differential Equations and Probability, Tom M. Apostol  
     * Libgen: yes  
-    * Descrição: termina a introdução ao cálculo diferencial.
+    * Descrição: Termina a introdução ao cálculo diferencial.
   
 ## Cursos
   * [Single Variable Calculus, Prof. David Jerison, MIT](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
