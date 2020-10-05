@@ -14,7 +14,7 @@ Exemplo:
 
 ## Cursos
 Padrão para adicionar cursos:
-  * [Título do curso, autor, instituição](link)
+  * [Título do curso, autor, instituição](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
     * Plataforma: youtube, mitocw, coursera
     * Descrição: descrição breve do porque esse curso é relevante, útil e de interesse dos coleguinhas.
 
