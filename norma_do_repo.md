@@ -11,3 +11,14 @@ Exemplo:
   * Geometria analítica: um tratamento vetorial, Paulo Boulos, Ivan de Camargo E. Oliveira  
     * Libgen: yes
     * Descrição: um livro introdutório e de transição entre matemática do ensino médio e matemática universitária.  
+
+## Cursos
+Padrão para adicionar cursos:
+  * [Título do curso, autor, instituição](link)
+    * Plataforma: youtube, mitocw, coursera
+    * Descrição: descrição breve do porque esse curso é relevante, útil e de interesse dos coleguinhas.
+
+Exemplo:
+  * [Single Variable Calculus, Prof. David Jerison, MIT](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+    * Plataforma: MIT Open Course Ware
+    * Descrição: descrição breve do porque esse curso é relevante, útil e de interesse dos coleguinhas.
