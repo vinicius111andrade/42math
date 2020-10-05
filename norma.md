@@ -1,5 +1,5 @@
 # Norma do Repositório
-Sugestões de alteração da norma são muito bem vindas, este é um repositório comunitário. O importante é que haja um padrão, que seja bonito e que seja conveniente.
+Sugestões de alteração da norma são muito bem vindas, este é um repositório comunitário. O importante é que haja um padrão que seja bonito e conveniente.
 
 ## Livros
 Padrão para adicionar livros:
