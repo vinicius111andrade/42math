@@ -1,5 +1,5 @@
-# Cálculo Diferencial
-O choro é livre
+# Cálculo Diferencial e Integral
+Ramo importante da matemática que se dedica ao estudo de taxas de variação de grandezas (como a inclinação de uma reta) e a acumulação de quantidades (como a área debaixo de uma curva ou o volume de um sólido).
 
 ## Livros
   * Calculus, Volume I: One-Variable Calculus, with an Introduction to Linear Algebra, Tom M. Apostol 
