@@ -2,7 +2,7 @@
 Choro é livre
 
 ## Livros
-  *  Calculus, Volume I, Tom M. Apostol 
+  * Calculus, Volume I, Tom M. Apostol 
     * Libgen: yes 
     * Descrição: One-Variable Calculus, with an Introduction to Linear Algebra. Introduz integrais antes de derivadas, uma abordagem aprofundada e um pouco diferente da convencional. 
   * 	Calculus, Volume II, Tom M. Apostol  
