@@ -5,7 +5,7 @@ Sugestões de alteração da norma são muito bem vindas, este é um repositóri
 Padrão para adicionar livros:
   * Título do livro, Autores 
     * Libgen: se está disponível ou não no libgen (usar yes/no)
-    * Linguagens: em quais linguas o livro está disponível.
+    * Linguagens: em quais linguas o livro está disponível (ex: english, português, français).
     * Descrição: descrição breve do porque esse livro é relevante, útil e de interesse dos coleguinhas.
 
 Exemplo:
