@@ -4,14 +4,15 @@ Ramo importante da matemática que se dedica ao estudo de taxas de variação de
 ## Livros
   * Calculus, Volume I: One-Variable Calculus, with an Introduction to Linear Algebra, Tom M. Apostol 
     * Libgen: yes 
-    * Língua: english
+    * Linguagens: english
     * Descrição: Introduz integrais antes de derivadas, uma abordagem aprofundada e um pouco diferente da convencional. Há o volume 2 também.
   * Um Curso de Cálculo - Volume 1, Guidorizzi
     * Libgen: yes  
-    * Língua: português
+    * Linguagens: português
     * Descrição: livro clássico utilizado nos cursos do IME USP, existem os volumes 2, 3 e 4 também.
 
 ## Cursos
   * [Single Variable Calculus, Prof. David Jerison, MIT](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
     * Plataforma: MIT Open Course Ware
-    * Descrição: descrição breve do porque esse curso é relevante, útil e de interesse dos coleguinhas.
+    * Linguagens: english
+    * Descrição: curso cálculo do MIT, uma das melhores universidades do mundo.
